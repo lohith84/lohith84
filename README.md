@@ -15,7 +15,7 @@
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=lohith84&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith84&layout=compact&theme=aura&langs_count=9" />
-<img align="right" height="150px" width="350px" src="(https://github-readme-streak-stats.herokuapp.com/?user=lohith84&hide_border=false)" />
+<img align="right" height="150px" width="350px" src="(https://github-readme-streak-stats.herokuapp.com/?user=lohith84&layout=compact&theme=tokyonight)" />
 <img height="150" />
 
 <br><br>
