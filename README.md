@@ -12,12 +12,14 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=lohith84" />
 
+<br/>
+
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith84&layout=compact&show_icon=true&theme=algolia" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=lohith84&layout=compact&show_icon=true&theme=algolia" />
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lohith84&theme=algolia&background=0d1117&hide_border=true" />
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=lohith84&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
 <br><br>
